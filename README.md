@@ -2,6 +2,8 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.7.
 
+Aplicación web desarrollada para explorar datos detallados de países y capitales consumiendo la API pública [REST Countries (v5)](https://restcountries.com/). El proyecto implementa las últimas características del framework, enfocándose en la gestión reactiva de estado, mapeo eficiente de datos y una experiencia de usuario (UX/UI) fluida e intuitiva.
+
 ## Development server
 
 To start a local development server, run:
